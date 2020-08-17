@@ -9,8 +9,8 @@ A simple torrent scraper written in python
 
 # To-Do
 - [x] Scrape available Links Form Torrent Link
-- [ ] Scrape Magnet Link
-- [ ] Copy the magnet link to clipboard
+- [x] Scrape Magnet Link
+- [x] Copy the magnet link to clipboard
 
 # Copyrights © [Henry Richard J](https://github.com/henry-richard7)
 
